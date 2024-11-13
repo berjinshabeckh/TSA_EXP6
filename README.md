@@ -1,7 +1,8 @@
-# Ex.No: 6               HOLT WINTERS METHOD
-### Date:15/10/24 
+# Ex.No: 6 HOLT WINTERS METHOD
 
-
+## Name:H.Berjin Shabeck
+## Reg no:212222240018
+## Date:21/09/2024
 
 ### AIM:
     To create and implement Holt Winter's Method Model using python.
